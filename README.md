@@ -1,4 +1,5 @@
 # API - Sistema de Gestión de Tickets de Asistencia Técnica 
+# Autor: Juan Lucero
 
 Este repositorio contiene el backend (API RESTful) para el sistema de gestión de tickets de asistencia técnica, desarrollado como parte del Examen de Fin de Carrera (Caso de Estudio 4).
 
