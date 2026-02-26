@@ -44,8 +44,8 @@ El proyecto implementa la arquitectura MVC y permite la gestión de usuarios, t�
     Crea un archivo `.env` en la raíz del proyecto basándote en el `README.md` original o usando esta plantilla:
     ```env
     PORT=4000
-    MONGO_URI=tu_cadena_de_conexion_mongodb
-    JWT_SECRET=tu_palabra_secreta_super_segura
+    MONGO_URI=mongodb+srv://juan:12345@cluster0.agcdm8h.mongodb.net/caso4_tickets_db
+    JWT_SECRET=ajdghkhjakwjhe
     ```
 
 4.  **Ejecutar el servidor en modo desarrollo:**
