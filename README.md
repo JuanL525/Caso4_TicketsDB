@@ -9,6 +9,8 @@
 ##  Características Principales
 
 * [cite_start]**Arquitectura MVC:** Separación clara entre Modelos, Controladores y Rutas[cite: 767].
+  <img width="431" height="556" alt="image" src="https://github.com/user-attachments/assets/65b29887-f079-473a-aaa6-db63a0ef2785" />
+
 * [cite_start]**Gestión de Usuarios (Login/Registro):** Autenticación de usuarios utilizando JSON Web Tokens (JWT) y encriptación de contraseñas con bcrypt[cite: 656, 742].
 * [cite_start]**CRUD de Técnicos:** Operaciones completas para gestionar a los técnicos del sistema[cite: 748, 771].
 * [cite_start]**CRUD de Clientes:** Operaciones completas para gestionar a los clientes[cite: 753, 771].
