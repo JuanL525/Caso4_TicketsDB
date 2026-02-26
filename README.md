@@ -9,7 +9,8 @@ El proyecto implementa la arquitectura MVC y permite la gestión de usuarios, t�
 ##  Características Principales
 
 *  **Arquitectura MVC:** Separación clara entre Modelos, Controladores y Rutas.
-  <img width="431" height="556" alt="image" src="https://github.com/user-attachments/assets/65b29887-f079-473a-aaa6-db63a0ef2785" />
+  ![Uploading image.png…]()
+
 
 *  **Gestión de Usuarios (Login/Registro):** Autenticación de usuarios utilizando JSON Web Tokens (JWT) y encriptación de contraseñas con bcrypt.
 *  **CRUD de Técnicos:** Operaciones completas para gestionar a los técnicos del sistema.
