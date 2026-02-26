@@ -88,19 +88,8 @@ A continuación se detallan las rutas principales de la API (añade tu URL base 
 
 ##  Estructura del Proyecto
 
-```text
-├── src/
-│   ├── config/       # Configuración de la base de datos (db.js)
-│   ├── controllers/  # Lógica de negocio (CRUDs y funciones)
-│   ├── helpers/      # Funciones de ayuda (ej. generarJWT.js)
-│   ├── middleware/   # Middlewares (ej. checkAuth para proteger rutas)
-│   ├── models/       # Esquemas de Mongoose (Usuario, Técnico, Cliente, Ticket)
-│   ├── routes/       # Definición de endpoints de la API
-│   └── index.js      # Archivo principal de entrada y configuración de Express
-├── .env              # Variables de entorno (no incluir en commits)
-├── .gitignore        # Archivos a ignorar por git
-├── package.json      # Dependencias y scripts
-└── README.md         # Documentación del proyecto
+<img width="231" height="609" alt="image" src="https://github.com/user-attachments/assets/ec161a2b-d9da-4e64-9678-667f89114ef2" />
+
 
 
 
