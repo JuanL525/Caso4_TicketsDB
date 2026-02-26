@@ -1,20 +1,20 @@
 # API - Sistema de Gestión de Tickets de Asistencia Técnica 
 
-[cite_start]Este repositorio contiene el backend (API RESTful) para el sistema de gestión de tickets de asistencia técnica [cite: 764][cite_start], desarrollado como parte del Examen de Fin de Carrera (Caso de Estudio 4)[cite: 653, 654].
+Este repositorio contiene el backend (API RESTful) para el sistema de gestión de tickets de asistencia técnica, desarrollado como parte del Examen de Fin de Carrera (Caso de Estudio 4)[cite: 653, 654].
 
-[cite_start]El proyecto implementa la arquitectura MVC [cite: 767] y permite la gestión de usuarios, técnicos, clientes y tickets.
+El proyecto implementa la arquitectura MVC [cite: 767] y permite la gestión de usuarios, técnicos, clientes y tickets.
 
  **URL de Despliegue:** [https://caso4-ticketsdb.onrender.com](https://caso4-ticketsdb.onrender.com)
 
 ##  Características Principales
 
-* [cite_start] **Arquitectura MVC:** Separación clara entre Modelos, Controladores y Rutas[cite: 767].
+*  **Arquitectura MVC:** Separación clara entre Modelos, Controladores y Rutas[cite: 767].
   <img width="431" height="556" alt="image" src="https://github.com/user-attachments/assets/65b29887-f079-473a-aaa6-db63a0ef2785" />
 
-* [cite_start] **Gestión de Usuarios (Login/Registro):** Autenticación de usuarios utilizando JSON Web Tokens (JWT) y encriptación de contraseñas con bcrypt[cite: 656, 742].
-* [cite_start] **CRUD de Técnicos:** Operaciones completas para gestionar a los técnicos del sistema[cite: 748, 771].
-* [cite_start] **CRUD de Clientes:** Operaciones completas para gestionar a los clientes[cite: 753, 771].
-* [cite_start] **CRUD de Tickets:** Generación y gestión de tickets, relacionando al cliente que lo solicita y al técnico asignado[cite: 762, 771].
+*  **Gestión de Usuarios (Login/Registro):** Autenticación de usuarios utilizando JSON Web Tokens (JWT) y encriptación de contraseñas con bcrypt[cite: 656, 742].
+*  **CRUD de Técnicos:** Operaciones completas para gestionar a los técnicos del sistema[cite: 748, 771].
+*  **CRUD de Clientes:** Operaciones completas para gestionar a los clientes[cite: 753, 771].
+*  **CRUD de Tickets:** Generación y gestión de tickets, relacionando al cliente que lo solicita y al técnico asignado.
 * **Base de Datos NoSQL:** Modelado de datos e interacción con MongoDB a través de Mongoose.
 * **CORS Abierto:** Configurado para aceptar peticiones de cualquier origen, facilitando la integración con cualquier frontend.
 
