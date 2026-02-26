@@ -83,6 +83,9 @@ A continuación se detallan las rutas principales de la API (añade tu URL base 
 * `PUT /api/tickets/:id` - Actualizar información o estado de un ticket.
 * `DELETE /api/tickets/:id` - Eliminar un ticket.
 
+## Pruebas de rendimiento en POSTMAN
+<img width="1465" height="864" alt="image" src="https://github.com/user-attachments/assets/09a09582-507e-4792-b560-e173df860423" />
+
 ##  Estructura del Proyecto
 
 ```text
@@ -99,6 +102,5 @@ A continuación se detallan las rutas principales de la API (añade tu URL base 
 ├── package.json      # Dependencias y scripts
 └── README.md         # Documentación del proyecto
 
-## Pruebas de rendimiento
-<img width="1465" height="864" alt="image" src="https://github.com/user-attachments/assets/09a09582-507e-4792-b560-e173df860423" />
+
 
