@@ -17,6 +17,7 @@ El proyecto implementa la arquitectura MVC y permite la gestión de usuarios, t�
 *  **CRUD de Técnicos:** Operaciones completas para gestionar a los técnicos del sistema.
 *  **CRUD de Clientes:** Operaciones completas para gestionar a los clientes.
 *  **CRUD de Tickets:** Generación y gestión de tickets, relacionando al cliente que lo solicita y al técnico asignado.
+* **Los CRUDS se pueden visualizar en el siguiente enlace: https://juanluceroandres-9327652.postman.co/workspace/Default-workspace~fd11046e-43d2-47fa-be83-f7873959209f/collection/49837746-aa87358c-7f8e-4a3e-aa0a-e051e4a743e9?action=share&creator=49837746&active-environment=49837746-a44db846-c79d-4f8c-8fce-9f53a5a063ac**
 * **Base de Datos NoSQL:** Modelado de datos e interacción con MongoDB a través de Mongoose.
 * **CORS Abierto:** Configurado para aceptar peticiones de cualquier origen, facilitando la integración con cualquier frontend.
 
