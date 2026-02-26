@@ -98,3 +98,7 @@ A continuación se detallan las rutas principales de la API (añade tu URL base 
 ├── .gitignore        # Archivos a ignorar por git
 ├── package.json      # Dependencias y scripts
 └── README.md         # Documentación del proyecto
+
+## Pruebas de rendimiento
+<img width="1465" height="864" alt="image" src="https://github.com/user-attachments/assets/09a09582-507e-4792-b560-e173df860423" />
+
