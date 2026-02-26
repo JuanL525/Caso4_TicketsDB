@@ -1,14 +1,14 @@
 # API - Sistema de Gestión de Tickets de Asistencia Técnica 
 
-Este repositorio contiene el backend (API RESTful) para el sistema de gestión de tickets de asistencia técnica, desarrollado como parte del Examen de Fin de Carrera (Caso de Estudio 4)[cite: 653, 654].
+Este repositorio contiene el backend (API RESTful) para el sistema de gestión de tickets de asistencia técnica, desarrollado como parte del Examen de Fin de Carrera (Caso de Estudio 4).
 
-El proyecto implementa la arquitectura MVC [cite: 767] y permite la gestión de usuarios, técnicos, clientes y tickets.
+El proyecto implementa la arquitectura MVC y permite la gestión de usuarios, técnicos, clientes y tickets.
 
  **URL de Despliegue:** [https://caso4-ticketsdb.onrender.com](https://caso4-ticketsdb.onrender.com)
 
 ##  Características Principales
 
-*  **Arquitectura MVC:** Separación clara entre Modelos, Controladores y Rutas[cite: 767].
+*  **Arquitectura MVC:** Separación clara entre Modelos, Controladores y Rutas.
   <img width="431" height="556" alt="image" src="https://github.com/user-attachments/assets/65b29887-f079-473a-aaa6-db63a0ef2785" />
 
 *  **Gestión de Usuarios (Login/Registro):** Autenticación de usuarios utilizando JSON Web Tokens (JWT) y encriptación de contraseñas con bcrypt.
